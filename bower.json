@@ -1,16 +1,13 @@
 {
-  "name": "stub",
+  "name": "brick-base",
   "description": "",
   "version": "0.1.0",
   "keywords": [
-    "web-components",    
+    "brick",
     "x-tag"
   ],
   "main": [
     "src/main.js",
     "src/main.css"
-  ],
-  "dependencies": {
-    "x-tag-core": "*"
-  }
+  ]
 }
